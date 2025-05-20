@@ -67,8 +67,8 @@
 8.0K   ├── README.md
 8.0K   ├─┬ Logs
 4.0K   │ └── wordium.log
+4.0K   ├── resolvers_ipv6.txt
 4.0K   ├── resolvers_ipv6
 4.0K   ├── LICENSE
-4.0K   ├── INFO.md
-  0B   └── resolvers_ipv6.txt
+4.0K   └── INFO.md
 ```
