@@ -1,5 +1,5 @@
-105M └─┬ main
- 66M   ├─┬ Misc
+106M └─┬ main
+ 67M   ├─┬ Misc
  54M   │ ├─┬ IIS
  53M   │ │ ├── iis_large.txt
 1.0M   │ │ ├── iis_mid.txt
@@ -9,7 +9,7 @@
 4.0K   │ │ └── extensions_all_dots.txt
 4.6M   │ ├── english_words_alpha_numerics.txt
 3.7M   │ ├── english_words_alpha.txt
-1.1M   │ ├── jwt_secrets_big.txt
+2.1M   │ ├── jwt_secrets_big.txt
 940K   │ ├── lowercase_misc.txt
 744K   │ ├── usernames_big.txt
 116K   │ ├── ports_top_20k.txt
@@ -17,6 +17,22 @@
 112K   │ ├── jwt_secrets_mid.txt
  84K   │ ├── fuzzgen.txt
  80K   │ ├── usernames_mid.txt
+ 72K   │ ├─┬ User-Agents
+ 12K   │ │ ├── user_agents_all.txt
+4.0K   │ │ ├── ua_safari_macos_latest.txt
+4.0K   │ │ ├── ua_safari_macos_all.txt
+4.0K   │ │ ├── ua_safari_iphone_latest.txt
+4.0K   │ │ ├── ua_safari_iphone_all.txt
+4.0K   │ │ ├── ua_firefox_windows_latest.txt
+4.0K   │ │ ├── ua_firefox_windows_all.txt
+4.0K   │ │ ├── ua_firefox_macos_latest.txt
+4.0K   │ │ ├── ua_firefox_macos_all.txt
+4.0K   │ │ ├── ua_chrome_windows_latest.txt
+4.0K   │ │ ├── ua_chrome_windows_all.txt
+4.0K   │ │ ├── ua_chrome_macos_latest.txt
+4.0K   │ │ ├── ua_chrome_macos_all.txt
+4.0K   │ │ ├── ua_chrome_android_latest.txt
+4.0K   │ │ └── ua_chrome_android_all.txt
  32K   │ ├── fuzzgen_extensions_path.txt
  24K   │ ├── passwords_mid.txt
  24K   │ ├── passwords_big.txt
@@ -32,23 +48,7 @@
 4.0K   │ ├── usernames_tiny.txt
 4.0K   │ ├── permutation_common_base_tiny.txt
 4.0K   │ ├── legit_ps_linux.txt
-4.0K   │ ├── extensions_all_no_dots.txt
-4.0K   │ └─┬ User-Agents
-  0B   │   ├── user_agents_all.txt
-  0B   │   ├── ua_safari_macos_latest.txt
-  0B   │   ├── ua_safari_macos_all.txt
-  0B   │   ├── ua_safari_iphone_latest.txt
-  0B   │   ├── ua_safari_iphone_all.txt
-  0B   │   ├── ua_firefox_windows_latest.txt
-  0B   │   ├── ua_firefox_windows_all.txt
-  0B   │   ├── ua_firefox_macos_latest.txt
-  0B   │   ├── ua_firefox_macos_all.txt
-  0B   │   ├── ua_chrome_windows_latest.txt
-  0B   │   ├── ua_chrome_windows_all.txt
-  0B   │   ├── ua_chrome_macos_latest.txt
-  0B   │   ├── ua_chrome_macos_all.txt
-  0B   │   ├── ua_chrome_android_latest.txt
-  0B   │   └── ua_chrome_android_all.txt
+4.0K   │ └── extensions_all_no_dots.txt
  17M   ├── x_massive.txt
 8.3M   ├── x_dns.txt
 5.3M   ├── x_lhf_large.txt
