@@ -1,1 +1,1 @@
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) TikTokLIVEStudio/1.10.2 Chrome/136.0.7103.59 Electron/36.4.0-rs.18.release.ls.22 TTElectron/36.4.0-rs.18.release.ls.22 Safari/537.36
