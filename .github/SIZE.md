@@ -18,8 +18,9 @@
 112K   │ ├── jwt_secrets_mid.txt
  84K   │ ├── fuzzgen.txt
  80K   │ ├── usernames_mid.txt
- 72K   │ ├─┬ User-Agents
+ 76K   │ ├─┬ User-Agents
  12K   │ │ ├── user_agents_all.txt
+8.0K   │ │ ├── ua_chrome_windows_all.txt
 4.0K   │ │ ├── ua_safari_macos_latest.txt
 4.0K   │ │ ├── ua_safari_macos_all.txt
 4.0K   │ │ ├── ua_safari_iphone_latest.txt
@@ -29,7 +30,6 @@
 4.0K   │ │ ├── ua_firefox_macos_latest.txt
 4.0K   │ │ ├── ua_firefox_macos_all.txt
 4.0K   │ │ ├── ua_chrome_windows_latest.txt
-4.0K   │ │ ├── ua_chrome_windows_all.txt
 4.0K   │ │ ├── ua_chrome_macos_latest.txt
 4.0K   │ │ ├── ua_chrome_macos_all.txt
 4.0K   │ │ ├── ua_chrome_android_latest.txt
