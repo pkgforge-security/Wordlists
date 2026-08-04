@@ -1,6 +1,6 @@
 ```mathematica
-106M └─┬ main
- 67M   ├─┬ Misc
+105M └─┬ main
+ 66M   ├─┬ Misc
  54M   │ ├─┬ IIS
  53M   │ │ ├── iis_large.txt
 1.0M   │ │ ├── iis_mid.txt
@@ -10,7 +10,7 @@
 4.0K   │ │ └── extensions_all_dots.txt
 4.6M   │ ├── english_words_alpha_numerics.txt
 3.7M   │ ├── english_words_alpha.txt
-2.1M   │ ├── jwt_secrets_big.txt
+1.1M   │ ├── jwt_secrets_big.txt
 940K   │ ├── lowercase_misc.txt
 744K   │ ├── usernames_big.txt
 116K   │ ├── ports_top_20k.txt
